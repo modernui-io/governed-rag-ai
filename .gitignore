@@ -26,9 +26,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # Local env files
-.env
 .env*.local
-.env.development
 
 # Vercel
 .vercel
@@ -96,3 +94,4 @@ gha-creds-*.json
 .github/chatmodes/
 github/prompts/*.md
 .github/chatmodes/*.md
+config.bat
